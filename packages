@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Packages</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Travel Packages</h1>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="places.html">Tourist Places</a>
+    <a href="packages.html">Packages</a>
+    <a href="booking.html">Booking</a>
+</nav>
+
+<table border="1" cellpadding="10">
+<tr>
+    <th>Package</th>
+    <th>Price</th>
+    <th>Days</th>
+</tr>
+<tr>
+    <td>Goa</td>
+    <td>₹15,000</td>
+    <td>3 Days</td>
+</tr>
+<tr>
+    <td>Manali</td>
+    <td>₹18,000</td>
+    <td>4 Days</td>
+</tr>
+<tr>
+    <td>Kerala</td>
+    <td>₹20,000</td>
+    <td>5 Days</td>
+</tr>
+</table>
+
+</body>
+</html>
