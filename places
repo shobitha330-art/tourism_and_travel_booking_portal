@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tourist Places</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Tourist Places</h1>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="places.html">Tourist Places</a>
+    <a href="packages.html">Packages</a>
+    <a href="booking.html">Booking</a>
+</nav>
+
+<ul>
+    <li>Goa – Beaches</li>
+    <li>Manali – Mountains</li>
+    <li>Kerala – Backwaters</li>
+    <li>Agra – Taj Mahal</li>
+</ul>
+
+</body>
+</html>
