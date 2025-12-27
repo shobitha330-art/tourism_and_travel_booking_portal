@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Booking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Book Your Trip</h1>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="places.html">Tourist Places</a>
+    <a href="packages.html">Packages</a>
+    <a href="booking.html">Booking</a>
+</nav>
+
+<form action="book.php" method="post">
+    <input type="text" name="name" placeholder="Name" required><br><br>
+    <input type="email" name="email" placeholder="Email" required><br><br>
+
+    <select name="package" required>
+        <option value="">Select Package</option>
+        <option>Goa</option>
+        <option>Manali</option>
+        <option>Kerala</option>
+    </select><br><br>
+
+    <button type="submit">Submit Booking</button>
+</form>
+
+</body>
+</html>
