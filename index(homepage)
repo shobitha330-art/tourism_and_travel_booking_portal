@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tourism Portal - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Tourism & Travel Booking Portal</h1>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="places.html">Tourist Places</a>
+    <a href="packages.html">Packages</a>
+    <a href="booking.html">Booking</a>
+</nav>
+
+<p>Welcome to our tourism portal. Plan your travel easily with us.</p>
+
+</body>
+</html>
